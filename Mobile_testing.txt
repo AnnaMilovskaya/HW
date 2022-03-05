@@ -1,0 +1,7 @@
+1. Ссылка на чек-лист проверок мобильного приложения
+
+https://docs.google.com/spreadsheets/d/1MS1pS5AisYfvCGjgJLmaPwsKTR-9Sz7aKwBFDkjvWts/edit#gid=1688479193
+
+2. Ссылка на тестирование мобильного приложения To Do List (работа с AndroidStudio)
+
+https://docs.google.com/spreadsheets/d/1qFKFh8OJ4KzRbsfzsZ93qW16BTglP9q_6UBPTYjzOmA/edit#gid=0
