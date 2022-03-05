@@ -1,0 +1,9 @@
+Структура баг-репорта:
+1. ID
+2. Summary
+3. Severity / Priority
+4. Steps
+5. Actual result
+6. Expected result
+7. Состояние системы, версия продукта
+
